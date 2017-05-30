@@ -1,0 +1,141 @@
+#codWars {
+  color: #bb432c;
+}
+
+#freeCodeCamp {
+  color: darkgreen;
+}
+
+#githubIcon {
+  color: rgb(102, 43, 129);
+}
+
+.block {
+  background-color: black;
+  opacity:.9;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+
+}
+
+.block2 {
+  background-color: white;
+  opacity:.5;
+  padding:9px;
+  border-radius:25px;
+  
+}
+
+.paddingTop{
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+.nav-pills {
+ font-family: 'anton', sans-serif;
+  font-size:1.9em;
+  background-color:black;
+  margin-bottom:10%;
+  
+}
+
+body {
+  background-color:white;
+  font-family: 'Rubik Mono One', sans-serif;
+  color:white;
+
+}
+
+h1 {
+  padding:0;
+  margin-top:0px;
+  font-family: 'Patua One', cursive;
+  font-size: 8.0em;
+  padding-top:0%;
+ 
+}
+
+h2 {
+  color: white;
+  font-family: 'Patua One', cursive;
+}
+
+h3 {
+  color: white;
+  font-family: "Patua One", cursive;
+}
+
+.newh1 {
+  color:purple;
+}
+
+.btn-default {
+  font-size:1.3em;
+  margin-top:1%;
+}
+
+.pageOne {
+  background:url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?dpr=2&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=&bg=");
+  background-size:cover;
+  /*height:800px;*/
+  padding-bottom: 10%;
+}
+
+.pageTwo {
+  background:url("https://images.unsplash.com/photo-1466175743059-5393a020726c?dpr=2&amp;auto=format&amp;fit=crop&amp;w=767&amp;h=511&amp;q=80&amp;cs=tinysrgb&amp;crop=");
+  background-size:cover;
+  height:600px;
+  padding-top:5%;
+  padding-left:5%;
+}
+
+.pageThree {
+  background:url("https://images.unsplash.com/photo-1419675871098-db2745078906?dpr=2&auto=format&fit=crop&w=1500&h=1124&q=80&cs=tinysrgb&crop=&bg=");
+  background-size:cover;
+  /*height:1200px;*/
+  padding-top:5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.pageFour {
+  background:url("https://images.unsplash.com/photo-1418272443502-f4af3b83661e?dpr=2&auto=format&fit=crop&w=1500&h=843&q=80&cs=tinysrgb&crop=&bg=");
+  background-size:cover;
+  padding-top:5%;
+  /*padding-bottom: 5%;*/
+}
+
+.paddingBTN{
+  /*padding-top: 25%;
+  padding-bottom: 25%;*/
+  width: 200px;
+  margin-bottom: 25px;
+}
+
+p {
+  font-size:1.7em;
+  color:black;
+  font-family: 'Patua One', cursive;
+}
+
+.footer {
+  background-color: black;
+
+}
+
+.footer p {
+  font-size: 15px;
+}
+
+
+.me {
+  height:400px;
+  display: block;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius: 5%;
+}
